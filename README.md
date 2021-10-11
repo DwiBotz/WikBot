@@ -16,14 +16,14 @@
 ```bash
 > pkg install nodejs && pkg install git
 > git clone https://github.com/DwiBotz/WikBot
-> cd bitch-bot
+> cd WikBot
 > bash install.sh
 > npm start/node index.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
 > git clone https://github.com/DwiBotz/WikBot
-> cd bitch-bot
+> cd WikBot
 > npm i
 > npm start/node index.js
 ```
